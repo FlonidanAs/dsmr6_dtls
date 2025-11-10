@@ -3,9 +3,9 @@
 
 Clone
 -----
-The project includes submodules. Remember to clone those as well.
-git clone --recurse-submodules <repository-url>
-or if you already cloned the repository
+The project includes submodules. Remember to clone those as well.<br>
+git clone --recurse-submodules <repository-url><br>
+or if you already cloned the repository<br>
 git submodule update --init --recursive
 
 Compiling
